@@ -1,0 +1,18 @@
+[
+  {
+    "id": 33,
+    "icon": "🏗️",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Seat Allotment Out",
+    "title": "TS EAPCET 2026 — Phase 1 Counselling Allotment Portal Live",
+    "date": "Reporting Open Now",
+    "publishedAt": "2026-07-11",
+    "image": "https://images.unsplash.com/photo-1562774053-701939374585?w=400&q=80",
+    "description": "The Telangana Council of Higher Education (TGCHE) has fully live-tracked the Phase 1 provisional seat allotment orders...",
+    "eligibility": "Candidates assigned a seat in Phase 1 who need to secure admission via fee payment",
+    "applyLink": "https://tgeapcet.nic.in",
+    "courses": ["B.Tech", "B.Pharm"],
+    "state": "Telangana"
+  }
+]
