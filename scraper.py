@@ -4,7 +4,7 @@ import json
 import os
 from datetime import datetime
 
-# 1. Google News RSS URL targeted at South Indian Education (Last 24 Hours)
+# 1. Google News RSS URL targeted at South Indian Education (Last 24 Hours)s
 RSS_URL = "https://news.google.com/rss/search?q=(KEAM+OR+TNEA+OR+EAMCET+OR+COMEDK+OR+KCET)+education+when:1d&hl=en-IN&gl=IN&ceid=IN:en"
 
 def fetch_latest_news():
