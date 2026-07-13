@@ -1,5 +1,63 @@
 [
   {
+    "id": 2607130366,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "COMEDK 2026 Choice Filling Begins For Mock Round, Submit Preferences By July 13",
+    "date": "Recent Update",
+    "publishedAt": "2026-07-13",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding COMEDK 2026 Choice Filling Begins For Mock Round, Submit Preferences By July 13. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2607130365,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TS EAMCET 2026 phase 1 mock allotment result out at tgeapcet.nic.in: Direct link to downlo",
+    "date": "Recent Update",
+    "publishedAt": "2026-07-13",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TS EAMCET 2026 phase 1 mock allotment result out at tgeapcet.nic.in: Direct link to download scorecards h. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2607130364,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "COMEDK UGET 2026 Mock Choice Filling Begins Today at comedk.org; direct link here",
+    "date": "Recent Update",
+    "publishedAt": "2026-07-13",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding COMEDK UGET 2026 Mock Choice Filling Begins Today at comedk.org; direct link here. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
     "id": 2607120463,
     "icon": "🎯",
     "color": "#059669",
