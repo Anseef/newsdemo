@@ -1,5 +1,43 @@
 [
   {
+    "id": 2607240458,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA 2026 Round 1 Counselling Allotment Releasing Tomorrow; Know What's Next",
+    "date": "Recent Update",
+    "publishedAt": "2026-07-24",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA 2026 Round 1 Counselling Allotment Releasing Tomorrow; Know What's Next. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2607240456,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA 2026 Round 1 Tentative Seat Allotment Result Released; confirm your seat by July 25, ",
+    "date": "Recent Update",
+    "publishedAt": "2026-07-24",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA 2026 Round 1 Tentative Seat Allotment Result Released; confirm your seat by July 25, direct link here. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2607230460,
     "icon": "🎯",
     "color": "#059669",
