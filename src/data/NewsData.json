@@ -1,5 +1,24 @@
 [
   {
+    "id": 2607260459,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA 2026 round 1 tentative seat allotment list out; students to confirm seats by July 25",
+    "date": "Recent Update",
+    "publishedAt": "2026-07-26",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA 2026 round 1 tentative seat allotment list out; students to confirm seats by July 25. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2607250454,
     "icon": "🎯",
     "color": "#059669",
