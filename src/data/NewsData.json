@@ -1,5 +1,63 @@
 [
   {
+    "id": 2608040453,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TS EAMCET 2026: Counselling (Started), Cutoff, Rank List, Result",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-04",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TS EAMCET 2026: Counselling (Started), Cutoff, Rank List, Result. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2608040451,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KEAM 2026 Phase 3 Provisional Allotment OUT at cee.kerala.gov.in; Final Allotment on Augus",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-04",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2026 Phase 3 Provisional Allotment OUT at cee.kerala.gov.in; Final Allotment on August 5. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2608040450,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA Counselling 2026: Round 1 Provisional Allotment Out, Round 2 Choice Filling Underway",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-04",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA Counselling 2026: Round 1 Provisional Allotment Out, Round 2 Choice Filling Underway. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2608030513,
     "icon": "🎯",
     "color": "#059669",
