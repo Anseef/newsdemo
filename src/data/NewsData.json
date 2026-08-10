@@ -1,5 +1,83 @@
 [
   {
+    "id": 2608100336,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA round 2 provisional allotment 2026 out; confirm engineering admission by August 13",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-10",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA round 2 provisional allotment 2026 out; confirm engineering admission by August 13. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2608100334,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "AP EAMCET Counselling Dates 2026: Round 1 Seat Allotment OUT, Web Options Entry and Regist",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-10",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding AP EAMCET Counselling Dates 2026: Round 1 Seat Allotment OUT, Web Options Entry and Registration. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2608100331,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA Counselling 2026: Round 1 provisional allotment out for upward candidates; round 2 ch",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-10",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA Counselling 2026: Round 1 provisional allotment out for upward candidates; round 2 choice filling begins. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2608100327,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "Andhra Pradesh EAMCET 2026 Round 1 Seat Allotment Today: Here's What To Do Next?",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-10",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Andhra Pradesh EAMCET 2026 Round 1 Seat Allotment Today: Here's What To Do Next?. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
     "id": 2608090324,
     "icon": "🎯",
     "color": "#059669",
