@@ -1,5 +1,63 @@
 [
   {
+    "id": 2608200244,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "AP EAMCET Counselling 2026: Final Phase Registration, Option Entry Begins for MPC Stream",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-20",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding AP EAMCET Counselling 2026: Final Phase Registration, Option Entry Begins for MPC Stream. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2608200241,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "167 Tamil Nadu engineering colleges fill under 10% seats, 23 have zero admissions",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-20",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding 167 Tamil Nadu engineering colleges fill under 10% seats, 23 have zero admissions. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2608200240,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "TNEA 2026: Round 3 Choice Filling (Open), Counselling Dates, Cutoff",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-20",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA 2026: Round 3 Choice Filling (Open), Counselling Dates, Cutoff. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2608190249,
     "icon": "🎯",
     "color": "#059669",
