@@ -1,5 +1,24 @@
 [
   {
+    "id": 2608230248,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Lost in the seat matrix: engineering season begins in Tamil Nadu",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-23",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Lost in the seat matrix: engineering season begins in Tamil Nadu. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2608220241,
     "icon": "🎯",
     "color": "#059669",
