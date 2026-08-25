@@ -1,5 +1,43 @@
 [
   {
+    "id": 2608250249,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA Round 3 provisional seat allotment result 2026 released; check details",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-25",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA Round 3 provisional seat allotment result 2026 released; check details. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2608250244,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA 2026: Over 68,000 get tentative allotments in third round of counselling",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-25",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA 2026: Over 68,000 get tentative allotments in third round of counselling. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2608240252,
     "icon": "🎯",
     "color": "#059669",
