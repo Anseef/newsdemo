@@ -1,5 +1,24 @@
 [
   {
+    "id": 2608260257,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Tamil Nadu has 1 lakh empty engineering seats. What is happening to the colleges?",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-26",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Tamil Nadu has 1 lakh empty engineering seats. What is happening to the colleges?. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2608250249,
     "icon": "🎯",
     "color": "#059669",
