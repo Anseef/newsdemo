@@ -1,5 +1,64 @@
 [
   {
+    "id": 2608290819,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "AP EAMCET 2026 Final Phase Allotment Out: Here Is the Next Step for Candidates",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-29",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding AP EAMCET 2026 Final Phase Allotment Out: Here Is the Next Step for Candidates. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2608290818,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KCET 2026 Round 2 seat allotment result released by KEA; check college and course: Direct ",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-29",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2026 Round 2 seat allotment result released by KEA; check college and course: Direct Link. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2608290816,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "AP EAMCET BiPC Phase 1 seat allotment result 2026 out at cap.apcfss.in: Direct link to dow",
+    "date": "Recent Update",
+    "publishedAt": "2026-08-29",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding AP EAMCET BiPC Phase 1 seat allotment result 2026 out at cap.apcfss.in: Direct link to download scorecard. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
     "id": 2608281323,
     "icon": "🎯",
     "color": "#059669",
