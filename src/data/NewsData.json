@@ -1,5 +1,82 @@
 [
   {
+    "id": 2609040630,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "KCET 2026 Round 3 Counselling Registration Begins at KEA; Option Entry Open Till Sep 3",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-04",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2026 Round 3 Counselling Registration Begins at KEA; Option Entry Open Till Sep 3. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2609040629,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "COMEDK 2026 Counselling Schedule Revised; Check Updated Deadline for Round 4 Decision-Maki",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-04",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding COMEDK 2026 Counselling Schedule Revised; Check Updated Deadline for Round 4 Decision-Making. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2609040628,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA Supplementary Counselling 2026 Rank List Out; Choice Filling Starts",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-04",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA Supplementary Counselling 2026 Rank List Out; Choice Filling Starts. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2609040625,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "Telangana EAPCET 2026 BiPC Counselling Schedule Released: Registration Begins on September",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-04",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Telangana EAPCET 2026 BiPC Counselling Schedule Released: Registration Begins on September 12. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
     "id": 2609030625,
     "icon": "🎯",
     "color": "#059669",
