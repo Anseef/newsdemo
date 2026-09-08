@@ -1,5 +1,82 @@
 [
   {
+    "id": 2609080628,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KCET Round 3 final seat allotment result 2026 declared; candidates must report to colleges",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-08",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET Round 3 final seat allotment result 2026 declared; candidates must report to colleges by September 1. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2609080627,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA CSE Cutoff 2026: Last Rank for Top 20 Engineering Colleges",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-08",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA CSE Cutoff 2026: Last Rank for Top 20 Engineering Colleges. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2609080626,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "AP EAMCET Result 2026 Date: When And Where To Check AP EAPCET Marks Memo?",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-08",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding AP EAMCET Result 2026 Date: When And Where To Check AP EAPCET Marks Memo?. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2609080625,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TNEA Supplementary Counselling 2026: Tentative Seat Allotment Out, Check Confirmation Rule",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-08",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA Supplementary Counselling 2026: Tentative Seat Allotment Out, Check Confirmation Rules. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
     "id": 2609070638,
     "icon": "🎯",
     "color": "#059669",
