@@ -1,5 +1,64 @@
 [
   {
+    "id": 2609150639,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "TNEA: What happens if you want a better seat? Upward movement and refund rules explained",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-15",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA: What happens if you want a better seat? Upward movement and refund rules explained. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2609150638,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "AP EAMCET 3rd Phase Counselling Dates 2026 (OUT): MPC & BiPC Registration, Web Options Ent",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-15",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding AP EAMCET 3rd Phase Counselling Dates 2026 (OUT): MPC & BiPC Registration, Web Options Entry (Open). Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2609150636,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "AP EAMCET Counselling 2026: Final phase schedule out at cap.apcfss.in, registration begins",
+    "date": "Recent Update",
+    "publishedAt": "2026-09-15",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding AP EAMCET Counselling 2026: Final phase schedule out at cap.apcfss.in, registration begins tomorrow | Hindustan Times. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
     "id": 2609130644,
     "icon": "🎯",
     "color": "#059669",
