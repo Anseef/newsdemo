@@ -1,5 +1,62 @@
 [
   {
+    "id": 2610300743,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "TNEA Application Form 2027: Date, How to Apply Online Here",
+    "date": "Recent Update",
+    "publishedAt": "2026-10-30",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA Application Form 2027: Date, How to Apply Online Here. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2610300737,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "TNEA Counselling Dates 2027",
+    "date": "Recent Update",
+    "publishedAt": "2026-10-30",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TNEA Counselling Dates 2027. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Tamil Nadu"
+  },
+  {
+    "id": 2610300736,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KEAM Rank List 2026 OUT; CEE Kerala Releases Engineering & Pharmacy Ranks at cee.kerala.go",
+    "date": "Recent Update",
+    "publishedAt": "2026-10-30",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM Rank List 2026 OUT; CEE Kerala Releases Engineering & Pharmacy Ranks at cee.kerala.gov.in. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
     "id": 2610290741,
     "icon": "🎓",
     "color": "#1B6CA8",
