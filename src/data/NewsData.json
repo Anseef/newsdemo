@@ -1,5 +1,101 @@
 [
   {
+    "id": 2611050825,
+    "icon": "🖥️",
+    "color": "#7C3AED",
+    "bg": "#F5F0FF",
+    "tag": "Counselling",
+    "title": "Kerala PG Ayurveda 2026 Online Applications, Option Entry Open, Apply Until Nov 6 at cee.k",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-05",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Kerala PG Ayurveda 2026 Online Applications, Option Entry Open, Apply Until Nov 6 at cee.kerala.gov.in. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611050823,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KEAM 2026: Fresh Applications for UG Ayurveda, Homoeopathy, Siddha & Unani Re-opened at ce",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-05",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2026: Fresh Applications for UG Ayurveda, Homoeopathy, Siddha & Unani Re-opened at cee.kerala.gov.in. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611050822,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "Kerala AYUSH Counselling 2026: Stray Round Registration Started, Choice Filling, Seat Allo",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-05",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Kerala AYUSH Counselling 2026: Stray Round Registration Started, Choice Filling, Seat Allotment. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611050821,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "NIRF 2026 Ranking List: Top BTech Engineering Colleges in India",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-05",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding NIRF 2026 Ranking List: Top BTech Engineering Colleges in India. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
+    "id": 2611050819,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "PW Gyan Utsav Diwali Sale Live: Offers on All Andhra Pradesh IPE and EAMCET Batches Till 1",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-05",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding PW Gyan Utsav Diwali Sale Live: Offers on All Andhra Pradesh IPE and EAMCET Batches Till 10 November. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
     "id": 2611040759,
     "icon": "🎓",
     "color": "#1B6CA8",
