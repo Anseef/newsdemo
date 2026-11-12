@@ -1,5 +1,100 @@
 [
   {
+    "id": 2611120847,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "KEAM 2027 Exam Date: Examination to be Held in April 21 to 26, Official Confirmation Await",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-12",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2027 Exam Date: Examination to be Held in April 21 to 26, Official Confirmation Awaited. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611120846,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KEAM 2026 Admission: PG Ayurveda Provisional Merit List And Category List PDF Out At cee.k",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-12",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2026 Admission: PG Ayurveda Provisional Merit List And Category List PDF Out At cee.kerala.gov.in. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611120845,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Live stream: How to watch the Basketball Australia School Championships",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-12",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Live stream: How to watch the Basketball Australia School Championships. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
+    "id": 2611120844,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "KEAM 2027 Exam Date Announced; Reports Claim Exam To Be Held From April 21 to 26",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-12",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2027 Exam Date Announced; Reports Claim Exam To Be Held From April 21 to 26. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611120842,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KEAM 2026 PG Ayurveda Provisional Merit List and Category List Released at cee.kerala.gov.",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-12",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2026 PG Ayurveda Provisional Merit List and Category List Released at cee.kerala.gov.in; Check here. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
     "id": 2611100845,
     "icon": "🎯",
     "color": "#059669",
