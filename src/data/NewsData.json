@@ -1,5 +1,100 @@
 [
   {
+    "id": 2611140760,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "KEAM 2027 Exam Reforms: Extra Time, Medical Supplies Allowed for Type-1 Diabetes Candidate",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-14",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2027 Exam Reforms: Extra Time, Medical Supplies Allowed for Type-1 Diabetes Candidates. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611140758,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "In a first, Keralam allows extra time for type-1 diabetes candidates in KEAM, goes beyond ",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-14",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding In a first, Keralam allows extra time for type-1 diabetes candidates in KEAM, goes beyond JEE, CBSE norms. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611140755,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KCET syllabus 2027 released by KEA: Check subject-wise syllabus for physics, chemistry, an",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-14",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET syllabus 2027 released by KEA: Check subject-wise syllabus for physics, chemistry, and mathematics, deleted portions, and exam pattern. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611140754,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KCET 2027 syllabus out; KEA publishes subject-wise topics: Check how to download",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-14",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2027 syllabus out; KEA publishes subject-wise topics: Check how to download. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611140753,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Kerala Grants Extra Exam Time To Type 1 Diabetes Students In KEAM 2027",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-14",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Kerala Grants Extra Exam Time To Type 1 Diabetes Students In KEAM 2027. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
     "id": 2611130843,
     "icon": "🚨",
     "color": "#DC2626",
