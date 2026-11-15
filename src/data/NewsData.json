@@ -1,5 +1,43 @@
 [
   {
+    "id": 2611150823,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Karnataka CET 2027: KEA Releases Detailed Subject-Wise Syllabus PDFs",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-15",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Karnataka CET 2027: KEA Releases Detailed Subject-Wise Syllabus PDFs. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611150820,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "Kerala extends extra exam time to Type 1 diabetes candidates in KEAM 2027",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-15",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Kerala extends extra exam time to Type 1 diabetes candidates in KEAM 2027. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
     "id": 2611140760,
     "icon": "🚨",
     "color": "#DC2626",
