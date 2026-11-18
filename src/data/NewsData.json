@@ -1,5 +1,62 @@
 [
   {
+    "id": 2611180862,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KEAM 2026 BDS Sixth Allotment Round New Option Registrations Open at cee.kerala.gov.in",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-18",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2026 BDS Sixth Allotment Round New Option Registrations Open at cee.kerala.gov.in. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611180861,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KEAM 2027: Kerala Allows 20 Minutes Extra Time Per Hour for Type-1 Diabetes Students",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-18",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2027: Kerala Allows 20 Minutes Extra Time Per Hour for Type-1 Diabetes Students. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611180860,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KCET Exam Date 2027: Check Exam Schedule, Application, Admit Card, Result Dates",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-18",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET Exam Date 2027: Check Exam Schedule, Application, Admit Card, Result Dates. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
     "id": 2611160825,
     "icon": "🚨",
     "color": "#DC2626",
