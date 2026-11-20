@@ -1,5 +1,81 @@
 [
   {
+    "id": 2611200865,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "KEAM Exam: Candidates with Type-1 diabetes to get 20 minutes extra per hour",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-20",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM Exam: Candidates with Type-1 diabetes to get 20 minutes extra per hour. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611200864,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KEAM 2026 BDS Sixth Allotment: New option registration begins, apply by November 19 at cee",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-20",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KEAM 2026 BDS Sixth Allotment: New option registration begins, apply by November 19 at cee.kerala.gov.in. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611200863,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "KCET 2027: Exam Date, Application Form, Syllabus & Pattern",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-20",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2027: Exam Date, Application Form, Syllabus & Pattern. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611200862,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KCET 2027: KEA Releases Subject-Wise Syllabus for PCMB; Check Practical Topics and Units",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-20",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2027: KEA Releases Subject-Wise Syllabus for PCMB; Check Practical Topics and Units. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
     "id": 2611190923,
     "icon": "🎓",
     "color": "#1B6CA8",
