@@ -1,5 +1,101 @@
 [
   {
+    "id": 2611210847,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "COMEDK Counselling 2027: Dates, Registration, Choice Filling & Seat Allotment",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-21",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding COMEDK Counselling 2027: Dates, Registration, Choice Filling & Seat Allotment. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611210846,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KCET 2027 Syllabus OUT Ahead of Schedule! Will KEA Drop Notification Early Too? Check deta",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-21",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2027 Syllabus OUT Ahead of Schedule! Will KEA Drop Notification Early Too? Check details here. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611210845,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "TS EAMCET 2027",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-21",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TS EAMCET 2027. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2611210844,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Kerala allows 20 minutes extra per hour for Type-1 diabetes students in KEAM 2027, permits",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-21",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Kerala allows 20 minutes extra per hour for Type-1 diabetes students in KEAM 2027, permits insulin, glucose tablets and snacks in exam hall. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm"
+    ],
+    "state": "Kerala"
+  },
+  {
+    "id": 2611210839,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KCET 2027 Syllabus",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-21",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2027 Syllabus. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
     "id": 2611200865,
     "icon": "🚨",
     "color": "#DC2626",
