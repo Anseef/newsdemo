@@ -1,5 +1,43 @@
 [
   {
+    "id": 2611230943,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KCET Admit Card 2027: Download Hall Ticket at cetonline.karnataka.gov.in",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-23",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET Admit Card 2027: Download Hall Ticket at cetonline.karnataka.gov.in. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611230940,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "PSGCT Coimbatore Cutoff 2026 (Out): Check TANCET Cutoff Ranks & Trends",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-23",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding PSGCT Coimbatore Cutoff 2026 (Out): Check TANCET Cutoff Ranks & Trends. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
     "id": 2611220844,
     "icon": "🎓",
     "color": "#1B6CA8",
