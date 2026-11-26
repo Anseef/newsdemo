@@ -1,5 +1,82 @@
 [
   {
+    "id": 2611260961,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "KCET Seat Matrix 2026 (Out)",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-26",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET Seat Matrix 2026 (Out). Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611260959,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "NITTE Cutoff 2026: Check NEET UG, NEET PG Previous Years Cutoff Ranks and Trends",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-26",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding NITTE Cutoff 2026: Check NEET UG, NEET PG Previous Years Cutoff Ranks and Trends. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
+    "id": 2611260955,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "TS EAMCET CSE Cutoff Ranks 2026: Check Branch and College-Wise Last Ranks",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-26",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding TS EAMCET CSE Cutoff Ranks 2026: Check Branch and College-Wise Last Ranks. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.Pharm",
+      "B.Sc Agriculture"
+    ],
+    "state": "Telangana & AP"
+  },
+  {
+    "id": 2611260954,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "KCET 2026: Karnataka CET Counselling Started, Result, Cutoff, Rank List",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-26",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2026: Karnataka CET Counselling Started, Result, Cutoff, Rank List. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
     "id": 2611251021,
     "icon": "🚨",
     "color": "#DC2626",
