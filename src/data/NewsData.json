@@ -1,5 +1,100 @@
 [
   {
+    "id": 2611270968,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Top 30: Australia’s best school basketball stars to watch",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-27",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Top 30: Australia’s best school basketball stars to watch. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
+    "id": 2611270966,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "How Wollongong underdogs plan to shock hoops heavyweights",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-27",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding How Wollongong underdogs plan to shock hoops heavyweights. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
+    "id": 2611270965,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "ISBR Cutoff 2026 (Out): Check Karnataka PGCET MBA Cutoff Ranks and Trends",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-27",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding ISBR Cutoff 2026 (Out): Check Karnataka PGCET MBA Cutoff Ranks and Trends. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611270963,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Top 10 Engineering Entrance Exams in India 2027",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-27",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Top 10 Engineering Entrance Exams in India 2027. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
+    "id": 2611270962,
+    "icon": "🎯",
+    "color": "#059669",
+    "bg": "#ECFDF5",
+    "tag": "Allotment Live",
+    "title": "NITTE University Cutoff 2026: Check NEET UG, NEET PG Cutoff Ranks and Trends",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-27",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding NITTE University Cutoff 2026: Check NEET UG, NEET PG Cutoff Ranks and Trends. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
     "id": 2611260961,
     "icon": "🎓",
     "color": "#1B6CA8",
