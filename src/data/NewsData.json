@@ -1,5 +1,62 @@
 [
   {
+    "id": 2611280921,
+    "icon": "🎓",
+    "color": "#1B6CA8",
+    "bg": "#EBF5FF",
+    "tag": "News Update",
+    "title": "Live stream: BA School Championships – Courts 1 & 2, Day 1",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-28",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Live stream: BA School Championships – Courts 1 & 2, Day 1. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "South India"
+  },
+  {
+    "id": 2611280920,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "KCET 2027: Exam Dates, Application Form, Syllabus & Pattern, KEA Updates",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-28",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding KCET 2027: Exam Dates, Application Form, Syllabus & Pattern, KEA Updates. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
+    "id": 2611280918,
+    "icon": "🚨",
+    "color": "#DC2626",
+    "bg": "#FFF0F0",
+    "tag": "Urgent Alert",
+    "title": "Karnataka High Court Examines Plea for Return of Original Documents and Tuition Fees from ",
+    "date": "Recent Update",
+    "publishedAt": "2026-11-28",
+    "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    "description": "Official announcement regarding Karnataka High Court Examines Plea for Return of Original Documents and Tuition Fees from Medical College After Candidate Attained Admission Elsewhere. Petition Alleged Illegal Detention of Documents and Demand for Full Course Fee, Raising Issues U. Students are advised to log into the official examination portal to verify their admission status, review cutoff schedules, and complete required procedures.",
+    "eligibility": "Qualified entrance exam candidates with valid Plus Two / Intermediate academic records.",
+    "applyLink": "",
+    "courses": [
+      "B.Tech",
+      "B.E"
+    ],
+    "state": "Karnataka"
+  },
+  {
     "id": 2611270968,
     "icon": "🎓",
     "color": "#1B6CA8",
